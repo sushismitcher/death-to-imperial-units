@@ -1,2 +1,3 @@
 # death-to-imperial-units
-This is the code for a chrome extension made to cross out all imperial units on any website and replace them with metric units. 
+
+The point is simply to replace most imperial units by the translations in the clearly superior system: the metric system.
